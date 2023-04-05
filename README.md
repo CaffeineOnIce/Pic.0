@@ -1,5 +1,5 @@
 # Pic.0
-Pic.0 - A macropad with OLED display
+**Pic.0** - A macropad with OLED display
 
 # Why I wanted to build it?
 I am not sure why. I thought it'd be a good learning curve and I could probably learn some stuff.
