@@ -1,11 +1,19 @@
 # **Pic.0**
 **Pic.0** - A macropad with OLED display
 
+## Looks:
+WIP
+
 ## Why I wanted to build it?
 I am not sure why. I thought it'd be a good learning curve and I could probably learn some stuff. Heh.
 
-## Looks:
-WIP
+## Features:
++ Open Source, so anyone can make any changes
++ USB-C
++ Can be made into Hotswaps by changing the footprints in KiCAD
++ QMK / VIA support
++ Underglow
++ Last but not least, very tiny
 
 ## Parts:
 | Part         | Count                                    | Description                     |
