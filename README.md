@@ -8,7 +8,8 @@ WIP
 I am not sure why. I thought it'd be a good learning curve and I could probably learn some stuff. Heh.
 
 ## Features
-+ Open Source, so anyone can make any changes
++ Open Source
++ Layers Support **(WIP)**
 + USB-C
 + Can be made into Hotswaps by changing the footprints in KiCAD
 + QMK / VIA support
