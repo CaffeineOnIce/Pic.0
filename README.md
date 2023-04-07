@@ -22,7 +22,7 @@ I am not sure why. I thought it'd be a good learning curve and I could probably 
 | 1            | Elite-C V4                               | The main microcontroller                                                           |
 | 6            | MX style Low Profile Switches            |                                                                                    |
 | 9            | WS2812B LEDs                             | Underglow                                                                          |
-| 1            | 128x64 OLED Display                      | I used SSD1306 drivered display                                                    |
+| 1            | 128x64 OLED Display                      | I used SSD1306 driver-ed display                                                   |
 | 2            | EC11 Rotary Encoders                     | Shaft length as per taste                                                          |
 | ??           | Acrylic Sheets                           | For base plate, and for display (Measurements? I dunno, didn't check)              |
 | 4 for each   | 5mm M2 spacers, 12mm M2 screws, M2 nuts  | For holding the display to the PCB as the holes in the display are smaller than M3 |
