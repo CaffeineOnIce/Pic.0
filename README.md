@@ -13,7 +13,7 @@ I am not sure why. I thought it'd be a good learning curve and I could probably 
 + Can be made into Hotswaps by changing the footprints in KiCAD
 + QMK / VIA support
 + Underglow
-+ Last but not least, very tiny
++ Last but not least, very small
 
 ## Parts
 | Count        | Parts                                    | Description                                                                        |
