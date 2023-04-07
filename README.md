@@ -18,7 +18,7 @@ I am not sure why. I thought it'd be a good learning curve and I could probably 
 ## Parts
 | Count        | Parts                                    | Description                                                                        |
 | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1            | Pic.O PCB                                |                                                                                    |
+| 1            | Pic.0 PCB                                |                                                                                    |
 | 1            | Elite-C V4                               | The main microcontroller                                                           |
 | 6            | MX style Low Profile Switches            |                                                                                    |
 | 9            | WS2812B LEDs                             | Underglow                                                                          |
