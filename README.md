@@ -5,6 +5,6 @@
 I am not sure why. I thought it'd be a good learning curve and I could probably learn some stuff. Heh.
 
 # Schematic:
-![Pic0](https://user-images.githubusercontent.com/22396923/230156991-69e069d5-f424-4b80-9791-132e59053441.png)
+![Pic0](https://user-images.githubusercontent.com/22396923/230655867-5051f485-a843-4b99-960e-e8509541cca9.png)
 The schematic is available in the repository.
 
