@@ -19,9 +19,9 @@ I'm not sure why. I thought it'd be a good learning curve and I could probably l
 ## Parts
 | Count        | Parts                                    | Description                                                                        |
 | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1            | Pic.0 PCB                                |                                                                                    |
+| 1            | Pic.0 PCB                                | The main PCB plate                                                                              |
 | 1            | Elite-C V4                               | The main microcontroller                                                           |
-| 6            | MX style Low Profile Switches            |                                                                                    |
+| 6            | MX style Low Profile Switches            | Switches                                                                                   |
 | 1            | Tactile push button (6mm x 6mm)          | For Reset                                                                          |
 | 9            | WS2812B LEDs                             | Underglow                                                                          |
 | 8            | 1N4148 Diodes (SMD Package 1206)         | For Ghosting reasons                                                               |
