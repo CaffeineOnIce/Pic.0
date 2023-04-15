@@ -5,7 +5,7 @@
 WIP
 
 ## Why did I want to build it?
-I am not sure why. I thought it'd be a good learning curve and I could probably learn some stuff. Heh.
+I'm not sure why. I thought it'd be a good learning curve and I could probably learn some stuff. Heh.
 
 ## Features
 + Open Source
