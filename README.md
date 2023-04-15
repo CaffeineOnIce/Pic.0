@@ -34,8 +34,8 @@ I'm not sure why. I thought it'd be a good learning curve and I could probably l
 | ??           | Some M3 standoffs, screws and nuts       | For base plate connection to PCB                                                   |
 
 ## Schematic
-![Pic0](https://user-images.githubusercontent.com/22396923/230657075-0efdc150-4766-44db-8dbe-2f8cbfaad3df.png)
 The schematic is available in the repository.
+![Pic0](https://user-images.githubusercontent.com/22396923/230657075-0efdc150-4766-44db-8dbe-2f8cbfaad3df.png)
 
 ## QMK
 Also WIP
