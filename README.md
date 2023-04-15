@@ -40,4 +40,5 @@ The schematic is available in the repository.
 ## QMK
 Also WIP
 
-
+## Stuck?
+Well, hit me up on Discord. I'll probably hit you up in an hour.
