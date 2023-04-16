@@ -21,12 +21,12 @@ I'm not sure why. I thought it'd be a good learning curve and I could probably l
 | ------------ | ---------------------------------------- | ---------------------------------------------------------------------------------- |
 | 1            | Pic.0 PCB                                | The main PCB plate                                                                 |
 | 1            | Elite-C V4                               | The main microcontroller                                                           |
-| 6            | MX style Low Profile Switches            | Switches                                                                           |
-| 1            | Tactile push button (6mm x 6mm)          | For Reset                                                                          |
-| 9            | WS2812B LEDs                             | Underglow                                                                          |
-| 8            | 1N4148 Diodes (SMD Package 1206)         | For Ghosting reasons                                                               |
-| 5            | 100nF Capacitors (SMD Package 1206)      | For "stuff"                                                                        |
-| 1            | 330 Ohm Resistor (SMD Package 1206)      | Also for "stuff"                                                                   |
+| 6            | MX style Low Profile Switches            | The switches                                                                       |
+| 1            | Tactile push button (6mm x 6mm)          | For reset                                                                          |
+| 9            | WS2812B LEDs                             | For underglow                                                                      |
+| 8            | 1N4148 Diodes (SMD Package 1206)         | For ghosting reasons under switches                                                |             
+| 5            | 100nF Capacitors (SMD Package 1206)      | For different reasons                                                              |
+| 1            | 330 Ohm Resistor (SMD Package 1206)      | In series with the RGBs                                                            |
 | 1            | 128x64 OLED Display                      | I used SSD1306 driver-ed display                                                   |
 | 2            | EC11/EC12 Rotary Encoders                | Shaft length as per taste                                                          |
 | ??           | Acrylic Sheets                           | For base plate, and for display (Measurements? I dunno, didn't check)              |
